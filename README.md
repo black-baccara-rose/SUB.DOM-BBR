@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="SUB.DOM-BBR logo" width="200"/>
+<img src="assets/SUB-DOM-BBRLogo.png" alt="SUB.DOM-BBR logo" width="200"/>
 
 # SUB.DOM**-BBR**
 
@@ -23,7 +23,7 @@
 ## `// 00 — preview`
 
 <div align="center">
-<img src="assets/screenshot.png" alt="SUB.DOM-BBR screenshot" width="900"/>
+<img src="assets/BBR-SUB-DOM-Screenshot.png" alt="SUB.DOM-BBR screenshot" width="900"/>
 </div>
 
 ---
