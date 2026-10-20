@@ -2,7 +2,7 @@
 
 <img src="assets/SUB-DOM-BBRLogo.png" alt="SUB.DOM-BBR logo" width="200"/>
 
-# SUB.DOM**-BBR**
+# SUB.DOM-BBR
 
 ### `root@blackbaccara: sudo bloom --force`
 
